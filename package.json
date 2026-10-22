@@ -1,7 +1,7 @@
 {
-  "name": "sign-pdf-online",
+  "name": "pdf-signing-helpers",
   "version": "1.0.0",
-  "description": "Helper scripts for Sign PDF: make a practice form to sign, write a receipt with fingerprints of the original and the signed copy",
+  "description": "Helper scripts for signing PDFs: make a practice form to sign, write a receipt with fingerprints of the original and the signed copy",
   "homepage": "https://toolster.net/sign_pdf",
   "license": "MIT",
   "private": true,
