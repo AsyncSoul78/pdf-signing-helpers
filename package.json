@@ -1,0 +1,14 @@
+{
+  "name": "sign-pdf-online",
+  "version": "1.0.0",
+  "description": "Helper scripts for Sign PDF: make a practice form to sign, write a receipt with fingerprints of the original and the signed copy",
+  "homepage": "https://toolster.net/sign_pdf",
+  "license": "MIT",
+  "private": true,
+  "engines": { "node": ">=18" },
+  "scripts": {
+    "form": "node scripts/make-sign-form.js",
+    "receipt": "node scripts/signing-receipt.js",
+    "test": "node --test test/check.test.js"
+  }
+}
