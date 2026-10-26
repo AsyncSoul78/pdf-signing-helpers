@@ -37,8 +37,6 @@ The scripts do not sign anything, they cover the steps before and after. For the
 
 ![The permission form from the receipt example, signed](screenshot.png)
 
-Video, signing this form from start to finish: [youtu.be/AwkxxrwQrBw](https://youtu.be/AwkxxrwQrBw)
-
 ## License
 
 MIT for the scripts in this repository. The signer is a separate hosted app and its code is not part of this repo.
